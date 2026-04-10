@@ -4,10 +4,10 @@ export default function Footer() {
       <p className="mb-1">© 2026 GastosApp</p>
 
       <a
-        href="https://github.com/El0sebas/app-gastos"
-        target="_blank"
-        className="text-white"
-      >
+  href="https://github.com/El0sebas/app-gastos/"
+  target="_blank"
+  rel="noopener noreferrer"
+>
         <i className="bi bi-github"></i> GitHub
       </a>
     </footer>
