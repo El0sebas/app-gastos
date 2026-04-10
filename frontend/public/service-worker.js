@@ -1,8 +1,5 @@
 const CACHE_NAME = "gastos-cache-v4";
-const urlsToCache = [
-  "/",
-  "/index.html"
-];
+
 
 // INSTALACIÓN
 self.addEventListener("install", event => {
