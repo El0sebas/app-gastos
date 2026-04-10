@@ -1,6 +1,4 @@
-const isLocalhost = Boolean(
-  window.location.hostname === 'localhost'
-);
+
 
 export function register() {
   if ('serviceWorker' in navigator) {
